@@ -1,7 +1,7 @@
 ## Trabalho Ecommerce 
-#### Eccomerce Simple : Proposta de um desenvolvimento simples com POO e SOLID 
-#### Eccomerce Normal : Proposta com uso de Interfaces , SOLID , compra simples e minimalista
-#### Eccomerce Final  : Proposta qual atinge os requesitos e caso de uso afim . 
+### Ecommerce Simples: Proposta de desenvolvimento básico utilizando POO e princípios do SOLID.
+### Ecommerce Intermediário: Proposta com uso de interfaces, princípios do SOLID e fluxo de compra simples e minimalista.
+### Ecommerce Final: Proposta que atende aos requisitos e contempla os casos de uso definidos.
 ## Funcionalidades
 
 - **Clientes**
