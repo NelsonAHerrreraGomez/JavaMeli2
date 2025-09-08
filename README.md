@@ -3,7 +3,7 @@
 ### Eccomerce Normal : Proposta com uso de Interfaces , SOLID , compra simples e minimalista
 ### Eccomerce Final  : Proposta qual atinge os requesitos e caso de uso afim . 
 #### Detalhes ao respeito : 
-# Commerce - Necessidades do Sistema
+
 ## Funcionalidades
 
 - **Clientes**
